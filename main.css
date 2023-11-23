@@ -1,0 +1,37 @@
+html, body {
+    overflow: hidden;
+    background-color: lemonchiffon;
+}
+
+.header {
+    display: flex;
+    justify-content:center;
+    max-height: 30vh;
+}
+
+.logo {
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.contents {
+    display: flex;
+    justify-content:center;
+    margin-bottom: 10vh;
+}
+
+.button_wrapper {
+    display: flex;
+    justify-content:center;
+}
+
+.button {
+    max-height: 60vh;
+    margin: 1%;
+}
+
+.button_image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
