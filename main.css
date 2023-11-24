@@ -6,8 +6,8 @@ body {
 .header {
     display: flex;
     justify-content:center;
-    max-height: 20vh;
-    margin-top: 5vh;
+    max-height: 20svh;
+    margin-top: 5svh;
 }
 
 .logo {
@@ -18,7 +18,7 @@ body {
 .contents {
     display: flex;
     justify-content:center;
-    margin-bottom: 10vh;
+    margin-bottom: 10svh;
 }
 
 .button_wrapper {
@@ -27,7 +27,7 @@ body {
 }
 
 .button {
-    max-height: 40vh;
+    max-height: 40svh;
     margin: 1%;
 }
 
